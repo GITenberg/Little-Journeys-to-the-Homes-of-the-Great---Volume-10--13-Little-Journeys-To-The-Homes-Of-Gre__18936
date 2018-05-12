@@ -1,0 +1,46 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great---Volume-10--13-Little-Journeys-To-The-Homes-Of-Gre__18936
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2006-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moses (Biblical leader)'
+- !lcsh 'Eddy, Mary Baker, 1821-1910'
+- !lcsh 'Washington, Booker T., 1856-1915'
+- !lcsh 'Fröbel, Friedrich, 1782-1852'
+- !lcsh 'Arnold, Thomas, 1795-1842'
+- !lcc 'CT'
+- !lcsh 'Confucius'
+- !lcsh 'Teachers -- Biography'
+- !lcsh 'Pythagoras and Pythagorean school'
+- !lcsh 'Plato'
+- !lcsh 'Benedict, Saint, Abbot of Monte Cassino'
+- !lcsh 'Hypatia, -415'
+- !lcsh 'Alfred, King of England, 849-899'
+- !lcsh 'Erasmus, Desiderius, -1536'
+tableOfContents: Moses -- Confucius -- Pythagoras -- Plato -- King Alfred -- Erasmus
+  -- Booker T. Washington -- Thomas Arnold -- Friedrich Froebel -- Hypatia -- Saint
+  Benedict -- Mary Baker Eddy.
+title: "Little Journeys to the Homes of the Great - Volume 10\r\nLittle Journeys To\
+  \ The Homes Of Great Teachers"
+url: http://www.gutenberg.org/ebooks/18936
